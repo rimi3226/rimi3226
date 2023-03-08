@@ -35,8 +35,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/linux-FCC624?style=plastic&logo=linux&logoColor=black">
   <h4> ⭐️ Cowork Tools ⭐️ </h4>
   <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white">
+ 
 </div>
-![Rimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimi3226&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimi3226&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+[![Rimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimi3226&show_icons=true&theme=radical)] 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimi3226&layout=compact)]
 
 
