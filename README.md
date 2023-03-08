@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about Frontend & Backend.
 - 📫 How to reach me: lora3226@inu.ac.kr
 
+<div align="center">
+ <h3> Tech Stack
+ 
  <img src="https://img.shields.io/badge/java-007396?style=plastic&logo=appveyor&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
  <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white"> 
   <br>
@@ -35,6 +38,6 @@ Here are some ideas to get you started:
   <br>
   
   <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white">
-  
+</div>
 ![Rimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimi3226&show_icons=true&theme=radical)
 
