@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-[![Rimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimi3226&show_icons=true&theme=radical)] 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimi3226&layout=compact)]
+![Rimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimi3226&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimi3226&langs_count=10&layout=compact&theme=dark)](https://github.com/rimi3226/saesub_first)
 
 
