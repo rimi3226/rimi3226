@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 I’m currently attending Incheon University.
+🌱 I’m currently learning about Frontend & Backend.
+📫 How to reach me: lora3226@inu.ac.kr
+
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Tistory&link=https://hasumang.tistory.com/)]
+
 ![Rimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimi3226&show_icons=true&theme=radical)
 
