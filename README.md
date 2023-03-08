@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently attending Incheon University.
 - 🌱 I’m currently learning about Frontend & Backend.
 - 📫 How to reach me: lora3226@inu.ac.kr
+- 😎 My Blog : https://hasumang.tistory.com/
 
 <div align="center">
  <h4> ⭐️ Tech Stack ⭐️ </h4>
