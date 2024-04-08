@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently attending Incheon University.
+- 🔭 I’m currently attending Incheon National University.
 - 🌱 I’m currently learning about Backend & Server.
 - 📫 How to reach me: lora3226@naver.com
 - 😎 My Blog : https://hasumang.tistory.com/
