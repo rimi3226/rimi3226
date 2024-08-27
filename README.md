@@ -57,9 +57,9 @@ Here are some ideas to get you started:
  
 </div>
 <br>
+<br>
 
 ![Rimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimi3226&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimi3226&langs_count=10&layout=compact&theme=dark)](https://github.com/rimi3226)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=rimi3226&theme=radical)](https://git.io/streak-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=fffcd9&height=150&section=footer" />
