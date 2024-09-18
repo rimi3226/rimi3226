@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=fffcd9&height=150&section=header" />
 
-### Hi there 👋
+### Hi there 🍀
 
 <!--
 **rimi3226/rimi3226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
