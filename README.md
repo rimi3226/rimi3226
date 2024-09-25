@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=fffcd9&height=150&section=header" />
-
 ### Hi there 🍀
 
 <!--
@@ -64,4 +62,3 @@ Here are some ideas to get you started:
 ![Rimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimi3226&show_icons=true&theme=radical&card_width=400)
 [![GitHub Streak](https://streak-stats.demolab.com?user=rimi3226&theme=radical&card_width=400)](https://git.io/streak-stats)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=fffcd9&height=150&section=footer" />
