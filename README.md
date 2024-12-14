@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about Backend & Server.
 - 📫 How to reach me: lora3226@naver.com
 - 😎 My Blog : https://hasumang.tistory.com/
-- 💬 Ask me about everything what you wanna know
 
 <div align="center">
  <h4> ⭐️ Tech Stack ⭐️ </h4>
