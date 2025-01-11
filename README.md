@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently attending Incheon National University.
 - 🌱 I’m currently learning about Backend & Server.
 - 📫 How to reach me: lora3226@naver.com
-- 😎 My Blog : https://hasumang.tistory.com
+- 😎 My Blog : https://hasumang.tistory.com/
 
 <div align="center">
  <h4> ⭐️ Tech Stack ⭐️ </h4>
