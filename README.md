@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lora3226@naver.com
 - 😎 My Blog : https://hasumang.tistory.com/
 
-<div align="center">
+  
+![Rimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimi3226&show_icons=true&theme=radical&card_width=400)
+
  <h4> ⭐️ Tech Stack ⭐️ </h4>
 
  <img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=appveyor&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
@@ -49,13 +51,6 @@ Here are some ideas to get you started:
 
   
   <h4> ⭐️ Cowork Tools ⭐️ </h4>
-  <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/slack-4A154B?style=plastic&logo=slack&logoColor=white">
- 
-</div>
-<br>
-<br>
-<br>
+  <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/slack-4A154B?style=plastic&logo=slack&logoColor=white">
 
-![Rimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimi3226&show_icons=true&theme=radical&card_width=400)
+
