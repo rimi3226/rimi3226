@@ -1,5 +1,4 @@
 ### Hi there 🍀
-
 <!--
 **rimi3226/rimi3226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +20,7 @@ Here are some ideas to get you started:
 - 😎 My Blog : https://hasumang.tistory.com
 - 🍀 Portfolio : ing ...
 
+---
 
 ### 🏆 Award 🏆
 
@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 - 새싹톤 본선 진출
 
 - 찰떡콩떡 해커톤 동상
+---
 
 ### ⭐️ Tech Stack ⭐️
 
@@ -60,9 +61,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Xamarin-3498DB?style=plastic&logo=xamarin&logoColor=black">
 
+---
   
 ### ⭐️ Cowork Tools ⭐️ 
+
   <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/slack-4A154B?style=plastic&logo=slack&logoColor=white">
+
+---
   
 ![Rimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimi3226&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lora3226)](https://solved.ac/lora3226/)
