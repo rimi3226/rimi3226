@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   - 성균관대 컨소시엄 경진대회 **동상**  
   - 한국테크노파크진흥회장상
 
-### 🏋️ TTC STEP-UP 출석체크 자동화 (2023.12)
+### 🏋️ TTC STEP-UP 출석체크 자동화 (2023.04 ~ 2023.05)
 - **Description**: 전화 기반 출석 확인을 Google Sheets API로 자동화
 - **Type**: 개인 프로젝트
 
