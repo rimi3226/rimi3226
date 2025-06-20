@@ -1,4 +1,4 @@
-Hi there 🍀
+🍀 Hi there 
 --- 
 <!--
 **rimi3226/rimi3226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 | **🌳 그린핑 (HackSeoul)** | 도시 생물 다양성 모니터링 플랫폼 | 백엔드(Spring) | 2024.10.29 |
 | **📝 자소서 아카이브 (AWS 리빙랩)** | 자소서 보관·분석 및 AI 피드백 제공 서비스 | 백엔드(Spring), 팀 리딩 | 2024.08.20 ~ 2024.08.21 |
 
-⭐️ Tech Stack ⭐️
+⭐️ Tech Stack
 ---
 
  <img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=appveyor&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Xamarin-3498DB?style=plastic&logo=xamarin&logoColor=black">
 
-⭐️ Cowork Tools ⭐️ 
+⭐️ Cowork Tools 
 ---
 
   <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/slack-4A154B?style=plastic&logo=slack&logoColor=white">
