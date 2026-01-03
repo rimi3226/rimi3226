@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I graduated Incheon National University.
+- 🔭 I'm graduated from Incheon National University.
 - 🚙 I'm currently working on Hyundai Autoever as Developer.
 - 🌱 I’m currently learning about Backend & Server.
 - 📫 How to reach me: lora3226@naver.com
